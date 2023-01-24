@@ -37,7 +37,7 @@
   border: solid #d2e0c1;
   border-radius: 5px;
   color: #19b149;
-  font-family: "Roboto" sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 #top_text {
@@ -54,7 +54,7 @@
   flex-flow: column wrap;
   color: #c0b77b;
   text-align: center;
-  font-family: "Roboto" sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 4rem;
 }
 
